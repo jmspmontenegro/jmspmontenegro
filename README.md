@@ -1,6 +1,6 @@
-### Hi!
+### Hi there!
 
-Look that:
+🤓 About me:
 ```
 require('profile');
 require('tech');
@@ -22,7 +22,6 @@ $me->setWorkingOn([
 ]);
 ```
 
-### Reach me:
-[Linkedin](https://www.linkedin.com/in/jonathasmontenegro/)
-
+### 🤩 Reach me: 
+[Linkedin](https://www.linkedin.com/in/jonathasmontenegro/) | 
 [Twitter](https://twitter.com/johnny_pita)

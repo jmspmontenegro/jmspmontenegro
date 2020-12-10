@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**jmspmontenegro/jmspmontenegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Look that:
+```
+require('profile');
+require('tech');
 
-Here are some ideas to get you started:
+$me = new Profile();
+$tech = new Technologies();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$me->setName('Jonathas Montenegro');
+$me->setJob('Systems Analysts and Web Developer');
+
+$me->setWorkingOn([
+  'Laravel',
+  'CakePHP',
+  'Javascript',  
+  'Docker',
+  'SAP ABAP',
+  'SAP Funcional Support',
+  'SAP Odata Webservices'
+]);
+```
+
+### Reach me:
+[Linkedin](https://www.linkedin.com/in/jonathasmontenegro/)
+
+[Twitter](https://twitter.com/johnny_pita)

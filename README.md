@@ -1,7 +1,7 @@
 ### Hi there!
 
 🤓 About me:
-```
+```php
 require('profile');
 require('tech');
 
@@ -22,6 +22,16 @@ $me->setWorkingOn([
 ]);
 ```
 
+<br/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmspmontenegro&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmspmontenegro&theme=buefy&layout=compact" />
+</a>
+<br/>
+
 ### 🤩 Reach me: 
-[Linkedin](https://www.linkedin.com/in/jonathasmontenegro/) | 
-[Twitter](https://twitter.com/johnny_pita)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathasmontenegro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jonathas%20Montenegro-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:jmsp.montenegro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jmsp.montenegro@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+

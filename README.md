@@ -14,7 +14,8 @@ $me->setJob('Systems Analysts and Web Developer');
 $me->setWorkingOn([
   'Laravel',
   'CakePHP',
-  'Javascript',  
+  'Javascript', 
+  'React',
   'Docker',
   'SAP ABAP',
   'SAP Funcional Support',
